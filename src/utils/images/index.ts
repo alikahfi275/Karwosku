@@ -1,3 +1,4 @@
 const Banner = require('./Banner.jpg');
+const Banner1 = require('./Banner1.jpg');
 
-export {Banner};
+export {Banner, Banner1};
